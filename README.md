@@ -22,13 +22,19 @@ NAME:Gal Zitrom. galzi@edu.hac.ac.il.
  
  
  input/output 
+ 
  'would you like to start? y/n'
- input: 'y'
+
+input: 'y'
+ 
  output:" hi please choose '1' '2' or '3' "
- input: '3'
+
+input: '3'
+ 
  output: 'Its a tie!
  would you like to start? y/n'
- input: 'n'
+
+input: 'n'
 
 closes python
 
