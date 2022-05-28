@@ -1,6 +1,6 @@
 
 
-# (Rock Paper Scissors Gal Zitrom)
+# (Rock Paper Scissors Gal Zitrom final)
 The code i wrote makes the game Rock Paper Scissors.
 By the way Bar i wrote the code with no help from the instructions , just searched in Stack Overflow for the choice function to random.
 I know its nothing compared to real projects but i love learning code by trying by myself .
