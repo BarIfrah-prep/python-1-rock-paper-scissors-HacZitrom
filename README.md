@@ -1,22 +1,19 @@
-# Rock Paper Scissors!
-# Hi and welcome to your first assignment!
-Here, your goal is to create a simple "Rock, Paper, Scissors" game, with all the knowledge youv'e got so far.\
-This is the **README** file. a **README** file is a text, or as you can see here, an "MD" file,\
-where all of your program information (how to run, what is the input/output, and everything you think is nessecary for the understanding of your code).\
-I'll give you a template this time, but from here on you'll need to manage this by yourselves. Good luck!
 
-# (Insert your project name here)
-say something about the assignement, what is this code doing, what is this code's goal..
-  **REPLACE THE ABOVE LINE OBVIOUSLY**
+
+# (Rock Paper Scissors Gal Zitrom)
+The code i wrote makes the game Rock Paper Scissors.
+By the way Bar i wrote the code with no help from the instructions , just searched in Stack Overflow for the choice function to random.
+I know its nothing compared to real projects but i love learning code by trying by myself 
+
+  
 
 ## Who's submitting?
-NAME: email address.
-NEVER! Upload your credentials to github (ID number etc..)
+NAME:Gal Zitrom. galzi@edu.hac.ac.il.
+
 
 ## Code input\output\ how to run
-What is the input of this code?\
-What is the output of this code?\
-What do I need to do to run it?\
-Give one or two examples of input and output.
-
+With the template you gave there was already import random and a while loop so i started by assigning veriables rock=1 paper=2 and scissors=3 then i wanted to assign a veriable of a question using  input  so if the player wants to play it will save the answer he writes,  and i added an if statment below to check what he chooses if he chosses no the while loop will end because of the break operator i wrote in the else at the end, and if he chooses y or Y  it will make it a lower case in order to compare to the play veriable . if he chooses  yes it will run a new question with the choises.
+ i assigned the choices to a veriable and wrote it in a list,
+then assigned pc as the veriable that picks a random number from the list of choices
+from here its just comparing the user vs the pc and adding the 'want to play?' question to see if the player wants to keep playing .
 ### This is it! Your assignement instructions are attached in the repository. Good luck!
