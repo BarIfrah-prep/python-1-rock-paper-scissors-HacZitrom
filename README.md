@@ -14,7 +14,7 @@ NAME:Gal Zitrom. galzi@edu.hac.ac.il.
 ## Code input\output\ how to run
  
  ran on pycharm and in python 
- press after puting an input press enter
+ press enter key after puting an input 
  
  input/output
  
