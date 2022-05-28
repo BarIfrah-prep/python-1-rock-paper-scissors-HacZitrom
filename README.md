@@ -16,14 +16,14 @@ NAME:Gal Zitrom. galzi@edu.hac.ac.il.
  ran on pycharm and in python 
  press after puting an input press enter
  
+ input/output
+ 
+ 
  output:
  Gamerules:
  Rock(1)vs..... and so on
  
- 
- input/output 
- 
- 'would you like to start? y/n'
+'would you like to start? y/n'
 
 input: 'y'
  
