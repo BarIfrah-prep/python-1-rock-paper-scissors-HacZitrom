@@ -16,4 +16,4 @@ With the template you gave there was already import random and a while loop so i
  i assigned the choices to a veriable and wrote it in a list,
 then assigned pc as the veriable that picks a random number from the list of choices
 from here its just comparing the user vs the pc and adding the 'want to play?' question to see if the player wants to keep playing .
-### This is it! Your assignement instructions are attached in the repository. Good luck!
+
