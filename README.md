@@ -31,7 +31,7 @@ input: 'y'
 
 input: '3'
  
- output: 'Its a tie!
+ output: 'You Lost he chose rock'
  would you like to start? y/n'
 
 input: 'n'
