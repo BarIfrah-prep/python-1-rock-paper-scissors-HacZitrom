@@ -1,5 +1,4 @@
 import random
-yesno = ['y', 'n']
 choices = {1: 'Rock', 2: 'paper', 3: 'Scissors'}
 print("GAME RULES: \n"
       "ROCK(1) vs SCISSORS(3)   --> ROCK(1) wins\n"
