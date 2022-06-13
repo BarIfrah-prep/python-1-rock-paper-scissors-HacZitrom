@@ -1,5 +1,47 @@
 
+# (Rock Paper Scissors Gal Zitrom final)
+The code i wrote makes the game Rock Paper Scissors.
 
-[README.md][README.md](https://github.com/BarIfrah-[README.md](https://github.com/BarIfrah-prep/python-1-rock-paper-scissors-HacZitrom/files/8891597/README.md)
-prep/python-1-rock-paper-scissors-HacZitrom/files/8891594/README.md)
-(https://github.com/BarIfrah-prep/python-1-rock-paper-scissors-HacZitrom/files/8891591/README.md)
+## Who's submitting?
+NAME:Gal Zitrom. galzi@edu.hac.ac.il.
+
+
+## Code input\output\ how to run
+ 
+ ran on pycharm and in python 
+ press enter key after puting an input 
+ 
+ input/output
+ 
+ 
+ output:
+ GAME RULES:
+ROCK(1) vs SCISSORS(3)   --> ROCK(1) wins
+SCISSORS(3) vs PAPER(2)  --> SCISSORS(3) win
+PAPER(2) vs ROCK(1)      --> PAPER(2) wins)
+ 
+ hi please type your pick here 
+        choose 1,2 or 3 "
+
+input: '2'
+ 
+ output:"you won!!
+        you chose paper,and pc chose rock" 
+        
+        
+
+input: 'a'
+ 
+ output:'not a valid answer '
+        'would you like to restart? y\n'
+
+
+input: 'y'
+
+output:'hi please type your pick here
+ choose 1 ,2 or 3'
+ 
+ and so on
+
+
+
