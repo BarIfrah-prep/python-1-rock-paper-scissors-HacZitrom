@@ -15,22 +15,22 @@ while True:
         print('Its a Tie')
         continue
     elif pick == 1 and pc == 2:
-        print(f'PC won!!\n you choose {choices[1]}, and pc choose {choices[2]}\n')
+        print(f'PC won!!\n you chose {choices[1]}, and pc chose {choices[2]}\n')
 
     elif pick == 1 and pc == 3:
-        print(f'You won!!\n you choose {choices[1]}, and pc choose {choices[3]}\n')
+        print(f'You won!!\n you chose {choices[1]}, and pc chose {choices[3]}\n')
 
     elif pick == 2 and pc == 3:
-        print(f'PC won!!\n you choose {choices[2]}, and pc choose {choices[3]}\n')
+        print(f'PC won!!\n you chose {choices[2]}, and pc chose {choices[3]}\n')
 
     elif 2 and pc == 1:
-        print(f'you won!!\n you choose {choices[2]}, and pc choose {choices[1]}\n')
+        print(f'you won!!\n you chose {choices[2]}, and pc chose {choices[1]}\n')
 
     elif pick == 3 and 1:
-        print(f'PC won!! \n you choose {choices[3]}, and pc choose, {choices[1]}\n')
+        print(f'PC won!! \n you chose {choices[3]}, and pc chose, {choices[1]}\n')
 
     else:
-        print(f'you won!!\n you choose {choices[3]} and pc choose, {choices[2]}\n')
+        print(f'you won!!\n you chose {choices[3]} and pc chose, {choices[2]}\n')
 
     n = 1
     restart = str(input('Would you like to restart? y/n'))
@@ -39,7 +39,7 @@ while True:
             n = 0
             break
         else:
-            print('not a valid answer')
+            print('Not a valid answer')
             restart = str(input('Would you like to restart? y/n'))
 
     if restart == 'y':
