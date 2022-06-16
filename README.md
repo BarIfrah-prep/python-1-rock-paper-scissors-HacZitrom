@@ -27,6 +27,7 @@ input: '2'
  
  output:"you won!!
         you chose paper,and pc chose rock" 
+        'would you like to restart? y\n'
         
         
 
